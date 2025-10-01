@@ -24,6 +24,6 @@ I enjoy watching Formula 1 racing and swimming. 🏊‍♂️
 
 ### 😎 About me
 -	I’m currently learning programming languages such as C++, C, and Python.
-- My interests include Advanced Air Mobility (AAM), aircraft systems, ADAS, and modern control systems.
+- My interests include Advanced Air Mobility (AAM), Aircraft Systems, Autonomous Driving systems and Modern Control systems.
 
   
