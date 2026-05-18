@@ -10,11 +10,12 @@ Future Mobility @ Kookmin University · Korean / English
 ### Currently
 
 - **CelebBase Wellness** — B2C AI-personalized healthcare platform. TypeScript monorepo, AWS Cognito, FastAPI, React Native.
+- **Carpybara** — Hardware Lead.
+- **Swimming Agent** — Flutter app with a GPT-4o + LangGraph ReAct coach. Preparing App Store launch.
 - **Personal Portfolio** — [junwonbae.com](https://junwonbae.com). Next.js · React Three Fiber · custom shaders.
 
 ### Recent work
 
-- **Swimming Agent** — Flutter app with a GPT-4o + LangGraph ReAct coach. FastAPI backend, ChromaDB retrieval.
 - **AutoRace 2025 · Team WayFinder** — Autonomous scale-car competition. ROS2 Humble, perception + planning stack.
 
 ### Stack
