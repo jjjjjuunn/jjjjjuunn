@@ -1,29 +1,31 @@
-## Hi there 👋, Welcome !
+## Junwon Bae
 
-<!--
-**jjjjjuunn/jjjjjuunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`AI Product & Robotics Software Engineer` · Irvine, CA
+Future Mobility @ Kookmin University · Korean / English
 
-Here are some ideas to get you started:
+> Software engineer with a mobility / robotics background, building across the stack — from ROS2 autonomous driving to LangGraph AI agents to production React monorepos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hello! 👋 My name is Junwon. I'm from Kookmin University in Seoul, Korea 🇰🇷
+---
 
-### ✈️ Major : Department of Future Mobility ✈️
-### 👀 Why I joined GitHub
-I’m eager to explore practical applications of software in the vehicle industry, especially in cars and aircraft. 🏎️✈️
-### 🏎️ Hobbies
-I enjoy watching Formula 1 racing and swimming. 🏊‍♂️
+### Currently
 
-### 😎 About me
--	I’m currently learning programming languages such as C++, C, and Python.
-- My interests include Advanced Air Mobility (AAM), Aircraft Systems, Autonomous Driving systems and Modern Control systems.
+- **CelebBase Wellness** — B2C AI-personalized healthcare platform. TypeScript monorepo, AWS Cognito, FastAPI, React Native.
+- **Personal Portfolio** — [junwonbae.com](https://junwonbae.com). Next.js · React Three Fiber · custom shaders.
 
-  
+### Recent work
+
+- **Swimming Agent** — Flutter app with a GPT-4o + LangGraph ReAct coach. FastAPI backend, ChromaDB retrieval.
+- **AutoRace 2025 · Team WayFinder** — Autonomous scale-car competition. ROS2 Humble, perception + planning stack.
+
+### Stack
+
+|  |  |
+| --- | --- |
+| **Languages** | TypeScript · Python · Dart · C++ |
+| **Frontend** | Next.js · React Three Fiber · Framer Motion · GLSL |
+| **Backend** | FastAPI · PostgreSQL · AWS · Docker |
+| **AI / Robotics** | LangGraph · OpenAI · ChromaDB · ROS2 Humble |
+
+---
+
+**[junwonbae.com](https://junwonbae.com)** · junwon020124@gmail.com
