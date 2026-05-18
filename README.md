@@ -1,3 +1,5 @@
+![](./assets/banner.png)
+
 ## Junwon Bae
 
 `AI Product & Robotics Software Engineer` · Irvine, CA
@@ -29,4 +31,4 @@ Future Mobility @ Kookmin University · Korean / English
 
 ---
 
-**[junwonbae.com](https://junwonbae.com)** · junwon020124@gmail.com
+**[junwonbae.com](https://junwonbae.com)** · [Resume](./assets/Junwon-Bae-Resume.pdf) · junwon020124@gmail.com
