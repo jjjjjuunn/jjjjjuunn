@@ -1,4 +1,4 @@
-![](./assets/banner.png)
+![](./assets/banner-mesh.png)
 
 ## Junwon Bae
 
