@@ -2,7 +2,7 @@
 
 ## Junwon Bae
 
-`AI Product & Robotics Software Engineer` · Irvine, CA
+`AI Product & Robotics Software Engineer` · Seoul, Korea
 Future Mobility @ Kookmin University · Korean / English
 
 > Software engineer with a mobility / robotics background, building across the stack — from ROS2 autonomous driving to LangGraph AI agents to production React monorepos.
